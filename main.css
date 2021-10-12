@@ -6,22 +6,24 @@
 
 body {
   font-size: 15px;
+  background-color: #090b1a;
 }
 
 .container {
+  max-width: 1440px;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
   flex-direction: column;
-  background-color: #090b1a;
+  margin: 0 auto;
 }
 
 .card {
   background-color: #1b1938;
   display: flex;
   width: 60%;
-  border-radius: 5px; 
+  border-radius: 5px;
   text-align: left;
 }
 .card__section-stats, .card__section-image {

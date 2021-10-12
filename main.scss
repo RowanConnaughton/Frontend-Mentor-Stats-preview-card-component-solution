@@ -13,16 +13,22 @@ $stat-headings: hsla(0, 0%, 100%, 0.6);
 }
 
 body {
+   
   font-size: 15px;
+  background-color: $main-background;
+  
+  
 }
 
 .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  flex-direction: column;
-  background-color: $main-background;
+    max-width: 1440px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto; 
+  
 }
 
 .card {
