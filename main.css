@@ -24,7 +24,7 @@ body {
   border-radius: 5px;
   text-align: left;
 }
-card__section-stats .card__section-stats, .card__section-image {
+.card__section-stats, .card__section-image {
   flex-basis: 50%;
 }
 .card__section-stats {
