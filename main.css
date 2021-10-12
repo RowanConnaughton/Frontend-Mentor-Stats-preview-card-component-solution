@@ -21,7 +21,7 @@ body {
   background-color: #1b1938;
   display: flex;
   width: 60%;
-  border-radius: 5px;
+  border-radius: 5px; 
   text-align: left;
 }
 .card__section-stats, .card__section-image {
