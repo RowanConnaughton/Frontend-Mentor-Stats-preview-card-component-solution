@@ -10,7 +10,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://rowanconnaughton.github.io/Frontend-Mentor-Stats-preview-card-component-solution/)
+- Solution URL: [Solution](https://rowanconnaughton.github.io/Frontend-Mentor-Stats-preview-card-component-solution/)
 
 
 
